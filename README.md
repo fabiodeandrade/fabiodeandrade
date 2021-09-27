@@ -2,7 +2,7 @@
 
 ### Moro atualmente em Belém do Pará, tenho um cachorro vira-lata chamado Juca🐕 e "estar/ser de boa" é uma lei natural do universo.
 
-Estudo análise e desenvolvimento de sistemas, atualmente me especializando em Front-end com foco em **JavaScript**, **React** e algumas ferramentoas do seu ecosistema. 
+Curso análise e desenvolvimento de sistemas, atualmente me especializando em Front-end com foco em **JavaScript**, **React** e algumas ferramentoas do seu ecosistema. 
 Sou escritor nas horas vagas e após o lançamento do meu ultimo livro percebi que sou o escritor de suspense/terror mais medroso desse mundo.
 
 <div>
