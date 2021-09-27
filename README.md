@@ -5,10 +5,6 @@
 Atualmente me especializando em Front-end com foco em **JavaScript**, **React** e algumas ferramentoas do seu ecosistema. 
 Sou escritor nas horas vagas e após o lançamento do meu ultimo livro percebi que sou o escritor de suspense/terror mais medroso desse mundo.
 
-Comento um pouco sobre livros no meu [Instagram](https://www.instagram.com/fabiodeandrad/) e um pouco mais de programação no meu [LinkedIn](https://www.linkedin.com/in/fabiodeandrad/)
-
-
-
 <div>
   <a href="https://github.com/fabiodeandrade">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiodeandrade&show_icons=true&theme=radical"/>
