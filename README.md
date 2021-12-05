@@ -1,9 +1,17 @@
-## Oi, eu sou o Fábio 🧔🏻
+# Oi, eu sou o Fábio 🧔🏻
 
-### Moro atualmente em Belém do Pará, tenho um cachorro vira-lata chamado Juca🐕 e "estar/ser de boa" é uma lei natural do universo.
+My name is Fábio de Andrade, i'm from and living in Brazil. I've been learning and working as Front-End developer since 2020. Analisys and development systems student, and Javascript addicted. Actually i work as Front-End Dev Jr at Innsite Web Agency and have a dog called Juca.
 
-Curso análise e desenvolvimento de sistemas, atualmente me especializando em Front-end com foco em **JavaScript**, **React** e algumas ferramentas do seu ecossistema. 
-Sou escritor nas horas vagas e após o lançamento do meu ultimo livro percebi que sou o escritor de suspense/terror mais medroso desse mundo.
+### Where you'll find me
+
+  <div>
+   
+   <a href="mailto:fabiodeandradecontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   <a href="https://www.linkedin.com/in/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    
+  
+  </div>  
 
 <div>
   <a href="https://github.com/fabiodeandrade">
@@ -23,17 +31,7 @@ Sou escritor nas horas vagas e após o lançamento do meu ultimo livro percebi q
 </div>
   
   
-## Por onde estou também 📱
   
-  
-  <div>
-   
-   <a href="mailto:fabiodeandradecontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-   <a href="https://www.linkedin.com/in/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    
-  
-  </div>  
   
   
  
