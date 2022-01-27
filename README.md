@@ -13,6 +13,7 @@ My name is Fábio de Andrade, i'm from and living in Brazil. I've been learning 
    <a href="mailto:fabiodeandradecontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    <a href="https://www.linkedin.com/in/fabiodeandrad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <a href="https://www.codewars.com/users/fabiodeandrade" target="_blank"><img src="https://www.codewars.com/users/fabiodeandrade/badges/micro" target="_blank">
     
   
   </div>  
