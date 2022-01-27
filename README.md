@@ -1,9 +1,10 @@
 # Oi, eu sou o Fábio 🧔🏻
-[PT-BR]
+**[PT-BR]**
 Meu nome é Fábio de Andrade, atualmente eu moro em Belém do Pará. Estudo e trabalho com desenvolvimento Front-End desde 2020. Sou estudante de Análise e Desenvolvimento de sistemas. Viciado em Javascript e seu ecossistema, atualmente eu trabalho como programador Jr e analista de inbound da Innsite Web Agency e tenho um cachorro chamado Juca.
 
 
-[EN] My name is Fábio de Andrade, i'm from and living in Brazil. I've been learning and working as Front-End developer since 2020. Analisys and development systems student, and Javascript addicted. Actually i work as Front-End Dev Jr at Innsite Web Agency and have a dog called Juca.
+**[EN]** 
+My name is Fábio de Andrade, i'm from and living in Brazil. I've been learning and working as Front-End developer since 2020. Analisys and development systems student, and Javascript addicted. Actually i work as Front-End Dev Jr at Innsite Web Agency and have a dog called Juca.
 
 ### Where you'll find me
 
