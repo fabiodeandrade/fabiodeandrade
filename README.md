@@ -1,4 +1,7 @@
 # Oi, eu sou o Fábio 🧔🏻
+
+[Meu portifólio](http://fabioportifolio.atwebpages.com/)
+
 **[PT-BR]**
 Me chamo Fábio de Andrade, atualmente eu moro em Belém do Pará. Estudo e trabalho com desenvolvimento Front-End desde 2020. Sou estudante de Análise e Desenvolvimento de sistemas. Viciado em Javascript e seu ecossistema, atualmente eu trabalho como programador Jr e analista de inbound da Innsite Web Agency e tenho um cachorro chamado Juca.
 
