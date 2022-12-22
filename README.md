@@ -1,5 +1,7 @@
 # Oi, eu sou o Fábio 🧔🏻
 
+[Meu Portifólio](https://fabiodeandrade.github.io/)
+
 
 **[PT-BR]**
 Me chamo Fábio de Andrade, atualmente eu moro em São Paulo. Estudo e trabalho com desenvolvimento Front-End desde 2020. Sou estudante de Análise e Desenvolvimento de sistemas. Viciado em Javascript e seu ecossistema, atualmente eu trabalho como Front End na Root Box e tenho um cachorro chamado Juca. Escrevo também no [Dev.to](https://dev.to/fabiodeandrade)
