@@ -4,11 +4,25 @@
 
 
 **[PT-BR]**
-Me chamo Fábio de Andrade, atualmente eu moro em São Paulo. Estudo e trabalho com desenvolvimento Front-End desde 2020. Sou estudante de Análise e Desenvolvimento de sistemas. Viciado em Javascript e seu ecossistema, atualmente eu trabalho como Front End na Root Box e tenho um cachorro chamado Juca. Escrevo também no [Dev.to](https://dev.to/fabiodeandrade)
+Desenvolvedor de software com mais de 4 anos de experiência, tendo sólidos conhecimentos em front e back end; e na criação de soluções escaláveis usando Javascript, Typescript e seu ecossistema. Já tive oportunidade de atuar em startups financeiras e de educação, onde pude ajudar a conquistar resultados altamente positivos com ações que pude desenhar.
+
+Minha trajetória na tecnologia é extremamente marcada por conhecimento e evolução contínua, onde tenho muito orgulho de ter aprendido a aprender. Atualmente meu foco é em arquitetura de software/soluções direcionado a escalabilidade, flexibilidade e performance.
+
+Ao longo das minhas experiências profissionais consegui desenvolver e aprimorar habilidades que impactam diretamente na minha forma de atuar como boa comunicação, pensamento analítico, tomada de decisões e organização.
+
+Portifólio: https://fabiodeandrade.github.io/
+E-mail: fabiodeandradecontato@gmail.com
 
 
 **[EN]** 
-My name is Fábio de Andrade, i'm from and living in Brazil. I've been learning and working as Front-End developer since 2020. Analisys and development systems student, and Javascript addicted. Actually i work as Front-End Dev at Root Box and have a dog called Juca. I'm write too on [Dev.to](https://dev.to/fabiodeandrade)
+Software developer with more than 4 years of experience, with solid knowledge in front and back end; and in creating scalable solutions using Javascript, Typescript and their ecosystem. I've had the opportunity to work in financial and education startups, where I was able to help achieve highly positive results with actions I was able to design.
+
+My trajectory in technology is extremely marked by knowledge and continuous evolution, where I am very proud to have learned how to learn. Currently my focus is on software architecture/solutions aimed at scalability, flexibility and performance.
+
+Throughout my professional experiences I managed to develop and improve skills that directly impact my way of working, such as good communication, analytical thinking, decision-making and organization.
+
+Portfolio: https://fabiodeandrade.github.io/
+Email: fabiodeandradecontato@gmail.com
 
 ### Where you'll find me
 
